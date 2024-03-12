@@ -10,6 +10,8 @@ python = "^3.10"
 pandas = "^2.2.0"
 scikit-learn = "^1.4.0"
 matplotlib = "^3.8.3"
+jupyter-contrib-nbextensions = "^0.7.0"
+opencv-python = "^4.9.0.80"
 
 
 [tool.poetry.group.dev.dependencies]
